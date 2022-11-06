@@ -3,7 +3,7 @@
 	Uri="https://codemao.tk/源码精灵.appinstaller"
 	Version="4.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
-		Name="cn.codemao.trainer-pc"
+		Name="skirky.codemao.uwp"
 		Version="4.0.1.0"
 		Publisher="CN=zhaozishuo"
 		Uri="https://codemao.tk/files/源码精灵_4.0.1.0_x64.appxbundle" />
